@@ -1,0 +1,5 @@
+2018-12-29 13:51:35,377 [main] INFO ebanking - URL is Opened
+2018-12-29 13:51:35,816 [main] INFO ebanking - Entered Username
+2018-12-29 13:51:36,034 [main] INFO ebanking - Entered Password
+2018-12-29 13:51:38,999 [main] INFO ebanking - Clicked Submit Button
+2018-12-29 13:51:39,013 [main] INFO ebanking - Login test is Passed
